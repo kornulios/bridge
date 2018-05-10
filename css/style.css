@@ -1,0 +1,32 @@
+body {
+  background: green;
+}
+
+.card:hover {
+  background: lightgray;
+}
+
+.card {
+  width: 30px;
+  height: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  line-height: 40px;
+  display: inline-block;
+  background: white;
+}
+
+.hand {
+  width: 300px;
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
